@@ -1,11 +1,11 @@
-About aimodelshare
-==================
+About aimodelshare-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/aimodelshare-feedstock/blob/main/LICENSE.txt)
 
 Home: https://www.modelshare.org
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/aimodelshare-feedstock/blob/main/LICENSE.txt)
 
 Summary: Deploy locally saved machine learning models to a live rest API and web-dashboard.  Share it with the world via modelshare.org
 
